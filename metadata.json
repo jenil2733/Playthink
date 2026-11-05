@@ -1,0 +1,6 @@
+{
+  "name": "PLAYTHINK — The Game Studio",
+  "description": "Mobile Game Development Studio powered by Unity. Architecting next-gen immersive gaming worlds, cross-platform titles, and real-time HDRP visual mastery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
